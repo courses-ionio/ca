@@ -6,8 +6,8 @@
 ## Παραδοτέο Α (Συπλήρωση Βιογραφικού)
 
 Για την υλοποίηση του συγκεκριμένου παραδοτέου, αρχικά πραγματοποιήθηκε fork του https://github.com/sharu725/online-cv από τα προτεινόμενα παραδείγματα. Στη συνέχεια πραγματοποιήθηκε η δημιουργία των branches develop, gh-pages.  Χρησιμοποιήθηκε το branch develop για τις απαραίτητες αλλαγές στο data.yml και _config.yml. Με την ολοκλήρωση των αλλαγών πραγματοποιήθηκε  Merge pull request από το branch develop στο branch gh-pages.
-*  To link για τη σελίδα του βιογραφικού [Link Σελίδας Βιογραφικού](https://c18papa.github.io/c18papa-cv/)
-*  Προσωπικό αποθετήριο του κώδικα: [Link Αποθετηρίου του κώδικα της εργασίας](https://github.com/c18papa/c18papa-cv)
+*  [Η σελίδα του βιογραφικού](https://c18papa.github.io/c18papa-cv/)
+*  [Αποθετηρίο του κώδικα της εργασίας](https://github.com/c18papa/c18papa-cv/tree/gh-pages)
 
 ## Παραδοτέο Β
 
