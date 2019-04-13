@@ -6,6 +6,4 @@
 
 ΜΕΣΗΜΕΡΗ ΑΝΝΑ
 
-Βιογραφικό Σημείωμα 
-
-https://midipetit.github.io/cv/
+# [Βιογραφικό Σημείωμα](https://midipetit.github.io/cv/)
