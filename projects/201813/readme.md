@@ -1,3 +1,5 @@
-edv tha einai to proto paradoteo
+Στο συγκεκριμένο αρχείο θα βρείτε πληροφορίες για το πρώτο παραδοτέο.
 
-collaborative apps
+Συγκεκριμένα ο σύνδεσμος για το βιογραφικό βρίσκεται εδώ:
+
+https://tmax100pro.github.io/online-cv/
