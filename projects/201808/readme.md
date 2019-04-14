@@ -37,7 +37,7 @@
 
 # [Βιβλίο Μαθήματος](https://midipetit.github.io/gr/)
 
-### Νέες φωοτγραφίες στο online book
+### Νέες φωτογραφίες στο online book
 #### [Autocad](https://midipetit.github.io/gr/gallery/autocad/)
 #### [Instagram](https://midipetit.github.io/gr/gallery/instagram/)
 #### [Nduino](https://midipetit.github.io/gr/gallery/nduino/)
