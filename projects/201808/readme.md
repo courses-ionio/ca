@@ -36,3 +36,10 @@
 ### [_config.yml](https://github.com/midipetit/gr/blob/gh-pages/_config.yml)
 
 # [Βιβλίο Μαθήματος](https://midipetit.github.io/gr/)
+
+### Νέες φωοτγραφίες στο online book
+#### [Autocad](https://midipetit.github.io/gr/gallery/autocad/)
+#### [Instagram](https://midipetit.github.io/gr/gallery/instagram/)
+#### [Nduino](https://midipetit.github.io/gr/gallery/nduino/)
+#### [Nest](https://midipetit.github.io/gr/gallery/nest/)
+#### [Siri](https://midipetit.github.io/gr/gallery/siri/)
