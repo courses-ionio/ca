@@ -22,6 +22,6 @@
 
 [lego wedo2](https://github.com/c18stat/gr/blob/gh-pages/_gallery/2.md)
 
-[Lake](https://github.com/c18stat/gr/blob/gh-pages/_gallery/lake.md)
+[Arduino](https://github.com/c18stat/gr/blob/gh-pages/_gallery/3.md)
 
 [Mouse](https://github.com/c18stat/gr/blob/gh-pages/_gallery/mouse.md)
