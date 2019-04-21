@@ -10,4 +10,4 @@
 
 ## ΠΑΡΑΔΟΤΕΟ 1Α*2
 - Fork του αποθετηρίου (**Repository**) της ιστοσελίδας του βιβλίου https://mibook.org/gr/ στο **c18gour**
-- Εισαγωγή 5 νέων εικόνων με λεζάντα στο **[Repository (gr)]**(https://c18gour.github.io/gr/)
+- Εισαγωγή 5 νέων εικόνων με λεζάντα στο [**Repository (gr)**](https://c18gour.github.io/gr/)
