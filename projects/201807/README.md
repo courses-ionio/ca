@@ -25,3 +25,8 @@
 [Arduino](https://github.com/c18stat/gr/blob/gh-pages/_gallery/3.md)
 
 [Mouse](https://github.com/c18stat/gr/blob/gh-pages/_gallery/mouse.md)
+
+# [Βιβλίο Μαθήματος](https://c18stat.github.io/gr/gallery/)
+
+## Νέες εικόνες στο Online βιβλίο
+[Lego Mindstorms EV3](https://c18stat.github.io/gr/gallery/1/)
