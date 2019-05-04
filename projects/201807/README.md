@@ -33,5 +33,8 @@
 ### Πέντε νέες εικόνες με ελευθερα δικαιώματα:
 
 [Macintosh](https://github.com/c18stat/gr/blob/gh-pages/_gallery/macintosh.md)
+
 [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/images/Atari-400.md)
+
+[]
 
