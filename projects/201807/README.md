@@ -36,5 +36,7 @@
 
 [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/images/Atari-400.md)
 
+[Toshiba T1850](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Toshiba%20T1850.md)
+
 []
 
