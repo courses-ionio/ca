@@ -17,7 +17,7 @@
 ### Πέντε νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση:
 
 
-# [Αποθετήριο κώδικα](https://github.com/c18stat/gr/tree/gh-pages/_gallery)
+#[Αποθετήριο κώδικα](https://github.com/c18stat/gr/tree/gh-pages/_gallery)
 
 
 [Lego Mindstorms EV3](https://github.com/c18stat/gr/blob/gh-pages/_gallery/11.md)
@@ -29,6 +29,7 @@
 [Arduino](https://github.com/c18stat/gr/blob/gh-pages/_gallery/3.md)
 
 [Mouse](https://github.com/c18stat/gr/blob/gh-pages/_gallery/mouse.md)
+
 
 ### Πέντε νέες εικόνες με ελευθερα δικαιώματα:
 
