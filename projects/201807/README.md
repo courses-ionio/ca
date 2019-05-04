@@ -10,14 +10,14 @@
 
 [Βιογραφικό σημείωμα](https://c18stat.github.io/online-cv/)
 
-[Αποθετήριο κώδικα](https://github.com/c18stat/online-cv)
+### [Αποθετήριο κώδικα](https://github.com/c18stat/online-cv)
 
 ## Παραδοτέο 2  
 
 ### Πέντε εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση:
 
 
-# [Αποθετήριο κώδικα](https://github.com/c18stat/gr/tree/gh-pages/_gallery)
+### [Αποθετήριο κώδικα](https://github.com/c18stat/gr/tree/gh-pages/_gallery)
 
 
 [Lego Mindstorms EV3](https://github.com/c18stat/gr/blob/gh-pages/_gallery/11.md)
@@ -34,7 +34,7 @@
 
 ### Πέντε νέες εικόνες με ελευθερα δικαιώματα:
 
-# [Αποθετήριο κώδικα](https://github.com/c18stat/gr/tree/gh-pages/_gallery)
+### [Αποθετήριο κώδικα](https://github.com/c18stat/gr/tree/gh-pages/_gallery)
 
 
 [Macintosh](https://github.com/c18stat/gr/blob/gh-pages/_gallery/macintosh.md)
