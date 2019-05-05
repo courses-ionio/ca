@@ -43,3 +43,13 @@
 #### [Nduino](https://midipetit.github.io/gr/gallery/nduino/)
 #### [Nest](https://midipetit.github.io/gr/gallery/nest/)
 #### [Siri](https://midipetit.github.io/gr/gallery/siri/)
+
+
+### 3ο Παραδοτέο
+
+Δημιουργία αρχείων .md για την προσθήκη των πέντε φωτογραφιών στον φάκελο 'gr/_gallery/' και η προσθήκη των φωτογραφιών (κανονικών και Thumbnails - 160 πλάτος) έγινε στον φάκελο 'gr/images/'. Νέες προσθήκες αρχείων .md :
+#### [G Suite](https://github.com/midipetit/gr/blob/gh-pages/_gallery/gsuite.md)
+#### [Instagramstories](https://github.com/midipetit/gr/blob/gh-pages/_gallery/instagramstory.md)
+#### [iPhone X](https://github.com/midipetit/gr/blob/gh-pages/_gallery/iphoneX.md)
+#### [Keyboard](https://github.com/midipetit/gr/blob/gh-pages/_gallery/keyboard.md)
+#### [Kickstarter](https://github.com/midipetit/gr/blob/gh-pages/_gallery/kickstarter.md)
