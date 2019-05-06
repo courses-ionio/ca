@@ -10,10 +10,16 @@
 
 ## ΠΑΡΑΔΟΤΕΟ 1Α*2
 - Fork του αποθετηρίου (**Repository**) της ιστοσελίδας του βιβλίου https://mibook.org/gr/ στο **c18gour**
-- Εισαγωγή 5 νέων εικόνων με λεζάντα στο [**Repository (gr)**](https://github.com/c18gour/gr)
+- Εισαγωγή 5 εικόνων με λεζάντα και 5 νέων εικόνων με λεζάντα στο [**Repository (gr)**](https://c18gour.github.io/gr/)
 - [**Βιβλίο με 5 νέες φωτογραφίες**](https://c18gour.github.io/gr/)
-- [**Photo1**](https://github.com/c18gour/gr/blob/gh-pages/_gallery/antik.md)
-- [**Photo2**](https://github.com/c18gour/gr/blob/gh-pages/_gallery/laptop.md)
-- [**Photo3**](https://github.com/c18gour/gr/blob/gh-pages/_gallery/typewriter.md)
-- [**Photo4**](https://github.com/c18gour/gr/blob/gh-pages/_gallery/socialmedia.md)
-- [**Photo5**](https://github.com/c18gour/gr/blob/gh-pages/_gallery/firsttransistor.md)
+- [**Photo1**](https://c18gour.github.io/gr/gallery/antik/)
+- [**Photo2**](https://c18gour.github.io/gr/gallery/laptop/)
+- [**Photo3**](https://c18gour.github.io/gr/gallery/continental/)
+- [**Photo4**](https://c18gour.github.io/gr/gallery/socialmedia/)
+- [**Photo5**](https://c18gour.github.io/gr/gallery/firsttransistor/)
+
+- [**New Photo1**](https://c18gour.github.io/gr/gallery/LegoSpike/)
+- [**New Photo2**](https://c18gour.github.io/gr/gallery/creativity/)
+- [**New Photo3**](https://c18gour.github.io/gr/gallery/ecommerce/)
+- [**New Photo4**](https://c18gour.github.io/gr/gallery/loom/)
+- [**New Photo5**](https://c18gour.github.io/gr/gallery/motorola/)
