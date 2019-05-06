@@ -18,6 +18,7 @@
 - [**Photo4**](https://c18gour.github.io/gr/gallery/socialmedia/)
 - [**Photo5**](https://c18gour.github.io/gr/gallery/firsttransistor/)
 
+- [**Βιβλίο με 5 νέες φωτογραφίες 2**](https://c18gour.github.io/gr/)
 - [**New Photo1**](https://c18gour.github.io/gr/gallery/LegoSpike/)
 - [**New Photo2**](https://c18gour.github.io/gr/gallery/creativity/)
 - [**New Photo3**](https://c18gour.github.io/gr/gallery/ecommerce/)
