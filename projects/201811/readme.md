@@ -24,3 +24,21 @@
 - [**New Photo3**](https://c18gour.github.io/gr/gallery/ecommerce/)
 - [**New Photo4**](https://c18gour.github.io/gr/gallery/loom/)
 - [**New Photo5**](https://c18gour.github.io/gr/gallery/motorola/)
+
+
+## ΠΑΡΑΔΟΤΕΟ 1Γ
+- Στο ήδη υπάρχων αποθετήριο [**Repository (gr)**]( https://github.com/c18gour/gr) προσθήκη μίας νέας **Βιογραφίας**
+
+1. Προσθήκη τεσσάρων -4- φωτογραφιών στο *_images* μαζί με τις αντίστοιχες *-thumb*
+- ### [**Photo ada.jpg**](https://github.com/c18gour/gr/blob/gh-pages/images/ada.jpg)
+- ### [**Photo analytical_engine.jpg**](https://github.com/c18gour/gr/blob/gh-pages/images/analytical_engine.jpg)
+- ### [**Photo notes.jpg**](https://github.com/c18gour/gr/blob/gh-pages/images/notes.jpg)
+- ### [**Photo portrait.jpg**](https://github.com/c18gour/gr/blob/gh-pages/images/portrait.jpg)
+
+2. Δημιουργία νέου αρχείου 
+
+### [**ada-lovelace.md**](https://github.com/c18gour/gr/blob/gh-pages/_biography/ada-lovelace.md)
+
+3. Δημιουργία νέου αρχείου **bio-lovelace.md** 
+
+### [**Σύντομη βιογραφία της Ada Lovelace**](https://github.com/c18gour/gr/blob/gh-pages/_biography/bio-lovelace.md)
