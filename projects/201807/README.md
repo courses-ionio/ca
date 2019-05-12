@@ -8,9 +8,10 @@
 
 ### Βιογραφικό σημείωμα
 
+### [Αποθετήριο κώδικα](https://github.com/c18stat/online-cv)
+
 [Βιογραφικό σημείωμα](https://c18stat.github.io/online-cv/)
 
-### [Αποθετήριο κώδικα](https://github.com/c18stat/online-cv)
 
 ## Παραδοτέο 2 A
 
@@ -38,7 +39,7 @@
 
 Έγινε τροποποίηση του αρχείου twitter στο φακελο _gallery και στο φακελο _image και αντικαταστάθηκε η εικόνα με νέα
 
-[Macintosh](https://github.com/c18stat/gr/blob/gh-pages/_gallery/macintosh.md)
+- [Macintosh](https://github.com/c18stat/gr/blob/gh-pages/_gallery/macintosh.md)
 
 [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Atari-400.md)
 
@@ -48,7 +49,9 @@
 
 [Social Media](https://github.com/c18stat/gr/blob/gh-pages/_gallery/social%20media.md)
 
-## Παραδοτέο 2 Γ Μελέτη περίπτωσης
+## Παραδοτέο 2 Γ 
+
+### Μελέτη περίπτωσης Linkendin
 
 Για τη δημιουργία της νέας μελέτης περίπτωσης του Linkendin δημιουργήθηκαν αρχεία .md στο φάκελο 'images' και στο φάκελο 'galery' καθώς και αρχεία .md στο φακελο 'case-study'
 
