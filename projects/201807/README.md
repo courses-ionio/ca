@@ -4,7 +4,7 @@
 
 ## ΑΜ: ΠΚΜ201807
 
-## Παραδοτέο 1
+## Παραδοτέο 1 A
 
 ### Βιογραφικό σημείωμα
 
@@ -12,7 +12,7 @@
 
 ### [Αποθετήριο κώδικα](https://github.com/c18stat/online-cv)
 
-## Παραδοτέο 2  
+## Παραδοτέο 2 A
 
 ### Πέντε εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση:
 
@@ -30,7 +30,7 @@
 
 [Mouse](https://github.com/c18stat/gr/blob/gh-pages/_gallery/mouse.md)
 
-## Παραδοτέο 3
+## Παραδοτέο 2 B
 
 ### Πέντε νέες εικόνες με ελεύθερα πνευματικά δικαιώματα:
 
@@ -46,4 +46,13 @@
 [Twitter](https://github.com/c18stat/gr/blob/gh-pages/_gallery/twitter.md)
 
 [Social Media](https://github.com/c18stat/gr/blob/gh-pages/_gallery/social%20media.md)
+
+## Παραδοτέο 2 Γ Μελέτη περίπτωσης
+
+Για τη δημιουργία της νέας μελέτης περίπτωσης δημιουργήθηκαν αρχεία _md στο φάκελο images και _md στο φακελο _case-study
+
+### [Αποθετήριο κώδικα](https://github.com/c18stat/gr)
+
+[Linkendin](https://github.com/c18stat/gr/blob/gh-pages/_case-study/cs-Linkendin.md)
+
 
