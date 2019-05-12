@@ -4,18 +4,18 @@
 
 ## ΑΜ: ΠΚΜ201807
 
-## Παραδοτέο 1 A
+## Παραδοτέο 1 
 
-### Βιογραφικό σημείωμα
+### Α: Βιογραφικό σημείωμα
 
 ### [Αποθετήριο κώδικα παραδοτέου](https://github.com/c18stat/online-cv)
 
 - [Βιογραφικό σημείωμα](https://c18stat.github.io/online-cv/)
 
 
-## Παραδοτέο 2 A
+## Παραδοτέο 2 
 
-### Πέντε εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που να επιτρέπουν εμπορική χρήση:
+### Α*1: Πέντε εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που να επιτρέπουν εμπορική χρήση:
 
 
 ### [Αποθετήριο κώδικα παραδοτέου](https://github.com/c18stat/gr)
@@ -31,9 +31,9 @@
 
 - [Mouse](https://github.com/c18stat/gr/blob/gh-pages/_gallery/mouse.md)
 
-## Παραδοτέο 2 B
+## Παραδοτέο 2 
 
-### Πέντε νέες εικόνες με ελεύθερα πνευματικά δικαιώματα ή που να επιτρέπουν εμπορική χρήση:
+### Α*2: Πέντε νέες εικόνες με ελεύθερα πνευματικά δικαιώματα ή που να επιτρέπουν εμπορική χρήση:
 
 ### [Αποθετήριο κώδικα παραδοτέου](https://github.com/c18stat/gr)
 
@@ -49,20 +49,20 @@
 
 - [Social Media](https://github.com/c18stat/gr/blob/gh-pages/_gallery/social%20media.md)
 
-## Παραδοτέο 2 Γ 
+## Παραδοτέο 2 
 
-### Μελέτη περίπτωσης Linkendin
+### Γ Μελέτη περίπτωσης Linkedin
 
-Για τη δημιουργία της νέας μελέτης περίπτωσης του Linkendin δημιουργήθηκαν αρχεία .md στο φάκελο 'images' και στο φάκελο 'galery' καθώς και αρχεία .md στο φακελο 'case-study'
+Για τη δημιουργία της νέας μελέτης περίπτωσης του Linkedin δημιουργήθηκαν αρχεία .md στο φάκελο 'images' και στο φάκελο 'galery' καθώς και αρχεία .md στο φακελο 'case-study'
 
 ### [Αποθετήριο κώδικα παραδοτέου](https://github.com/c18stat/gr)
 
-Αρχείο cs_Linkendin.md στο φάκελο '_case-study'
+Αρχείο cs_Linkedin.md στο φάκελο '_case-study'
 
-- [Linkendin](https://github.com/c18stat/gr/blob/gh-pages/_case-study/cs-Linkendin.md)
+- [Linkedin](https://github.com/c18stat/gr/blob/gh-pages/_case-study/cs-Linkendin.md)
 
-Αρχείο Linkendin.md στον φάκελο '_case-stady'
+Αρχείο Linkedin.md στον φάκελο '_case-stady'
 
-- [Linkendin](https://github.com/c18stat/gr/blob/gh-pages/_case-study/Linkendin.md)
+- [Linkedin](https://github.com/c18stat/gr/blob/gh-pages/_case-study/Linkendin.md)
 
 
