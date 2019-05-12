@@ -53,3 +53,12 @@
 #### [iPhone X](https://github.com/midipetit/gr/blob/gh-pages/_gallery/iphoneX.md)
 #### [Keyboard](https://github.com/midipetit/gr/blob/gh-pages/_gallery/keyboard.md)
 #### [Kickstarter](https://github.com/midipetit/gr/blob/gh-pages/_gallery/kickstarter.md)
+
+
+### 4ο Παραδοτέο
+
+Για την πραγματοποίηση της προσθήκης μίας νέας μελέτης περίπτωσης δημιουργήθηκε ένα νέο αρχείο .md στον φάκελο gr/_case-study όπου περιέχει το κείμενο της νέας μελέτης περίπτωσης. 
+#### [Instagram](https://github.com/midipetit/gr/blob/gh-pages/_case-study/cs-instagram.md)
+
+Στη συνέχεια δημιουργήθηκε ακόμα ένα αρχείο .md στον φάκελο gr/_case-study.
+#### [Instagram](https://github.com/midipetit/gr/blob/gh-pages/_case-study/instagram.md)
