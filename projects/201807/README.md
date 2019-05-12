@@ -36,14 +36,13 @@
 
 ### [Αποθετήριο κώδικα](https://github.com/c18stat/gr/tree/gh-pages/_gallery)
 
+Έγινε τροποποίηση του αρχείου twitter
 
 [Macintosh](https://github.com/c18stat/gr/blob/gh-pages/_gallery/macintosh.md)
 
 [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Atari-400.md)
 
 [Toshiba T1850](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Toshiba%20T1850.md)
-
-Νεα φώτο Twitter
 
 [Twitter](https://github.com/c18stat/gr/blob/gh-pages/_gallery/twitter.md)
 
