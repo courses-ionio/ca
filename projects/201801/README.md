@@ -29,3 +29,12 @@
 *  [Εικόνα 4](https://github.com/c18papa/gr/blob/gh-pages/_gallery/appinventor.md)
 *  [Εικόνα 5](https://github.com/c18papa/gr/blob/gh-pages/_gallery/google_duplex.md)
 
+## Παραδοτέο 1Γ (μια νέα βιογραφία)
+
+Για την υλοποίηση του συγκεκριμένου παραδοτέου, πραγματοποιήθηκε δημιουργία νέων αρχείων .md στο φάκελο `_biography` και η προσθήκη των αντίστοιχων εικόνων (συμπεριλαμβανομένων thumbnails) στο φάκελο `images`.
+
+*  [Αποθετήριο του κώδικα του παραδοτέου](https://github.com/c18papa/gr)
+*  [alan-turing.md](https://github.com/c18papa/gr/blob/gh-pages/_biography/alan-turing.md)
+*  [bio-turing.md](https://github.com/c18papa/gr/blob/gh-pages/_biography/bio-turing.md)
+
+
