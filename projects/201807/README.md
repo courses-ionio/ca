@@ -17,7 +17,7 @@
 ### Πέντε εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση:
 
 
-### [Αποθετήριο κώδικα](https://github.com/c18stat/gr/tree/gh-pages/_gallery)
+### [Αποθετήριο κώδικα παραδοτέου](https://github.com/c18stat/gr)
 
 
 [Lego Mindstorms EV3](https://github.com/c18stat/gr/blob/gh-pages/_gallery/11.md)
@@ -34,9 +34,9 @@
 
 ### Πέντε νέες εικόνες με ελεύθερα πνευματικά δικαιώματα:
 
-### [Αποθετήριο κώδικα](https://github.com/c18stat/gr/tree/gh-pages/_gallery)
+### [Αποθετήριο κώδικα παραδοτέου](https://github.com/c18stat/gr)
 
-Έγινε τροποποίηση του αρχείου twitter
+Έγινε τροποποίηση του αρχείου twitter στο φακελο _gallery και στο φακελο _image και αντικαταστάθηκε η εικόνα με νέα
 
 [Macintosh](https://github.com/c18stat/gr/blob/gh-pages/_gallery/macintosh.md)
 
@@ -50,13 +50,15 @@
 
 ## Παραδοτέο 2 Γ Μελέτη περίπτωσης
 
-Για τη δημιουργία της νέας μελέτης περίπτωσης δημιουργήθηκαν αρχεία .md στο φάκελο _images και _galery καθώς και .md στο φακελο _case-study
+Για τη δημιουργία της νέας μελέτης περίπτωσης του Linkendin δημιουργήθηκαν αρχεία .md στο φάκελο 'images' και στο φάκελο 'galery' καθώς και αρχεία .md στο φακελο 'case-study'
 
-### [Αποθετήριο κώδικα](https://github.com/c18stat/gr)
+### [Αποθετήριο κώδικα παραδοτέου](https://github.com/c18stat/gr)
+
+Αρχείο cs_Linkendin.md στο φάκελο '_case-study'
 
 [Linkendin](https://github.com/c18stat/gr/blob/gh-pages/_case-study/cs-Linkendin.md)
 
-Δημηουργήθηκε επίσης ένα ακόμη αρχείο στον φάκελο _case-stady
+Αρχείο Linkendin.md στον φάκελο '_case-stady'
 
 [Linkendin](https://github.com/c18stat/gr/blob/gh-pages/_case-study/Linkendin.md)
 
