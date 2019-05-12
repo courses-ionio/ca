@@ -55,4 +55,8 @@
 
 [Linkendin](https://github.com/c18stat/gr/blob/gh-pages/_case-study/cs-Linkendin.md)
 
+Δημηουργήθηκε επίσης ένα ακόμη αρχείο στον φάκελο _case-stady
+
+[Linkendin](https://github.com/c18stat/gr/blob/gh-pages/_case-study/Linkendin.md)
+
 
