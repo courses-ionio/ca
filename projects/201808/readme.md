@@ -62,3 +62,18 @@
 
 Στη συνέχεια δημιουργήθηκε ακόμα ένα αρχείο .md στον φάκελο gr/_case-study.
 #### [Instagram](https://github.com/midipetit/gr/blob/gh-pages/_case-study/instagram.md)
+
+
+### 5ο Παραδοτέο
+
+Για την ολοκλήρωση του πέμπτου παραδοτέου οι ενέργειες που απαιτούντα, ήταν οι εξής:
+
+A. Για την δημοσίευση υλικού από το βιβλίο "Ο Προγραμματισμός της Διάδρασης" σε κάποιο μέσω κοινωνικής δικτύωσης της επιλογής μας χρειάστηκε να γίνει η δημιουργία λογαριασμού στο κοινωνικό μέσω Twitter και η δημοσίευση του υλικού.
+
+# [Λογαρισμός στο Twitter](https://twitter.com/MidiPetit)
+
+B. Για το δεύτερο μέρος της εργασίας όπου απαιτούνταν να εμφανίζονταν το timeline του twitter στη σελίδα του ηλεκτρονικού βιβλίου "Ο Προγραμματισμός της Διάδρασης" πραγματοποιήθηκαν τα εξής βήματα:
+
+1. Προσθήκη αρχείου [twittertimeline.html](https://github.com/midipetit/gr/blob/gh-pages/_includes/twittertimeline.html) στον φάκελο ['_includes'](https://github.com/midipetit/gr/tree/gh-pages/_includes).
+
+2. Προσθήκη μίας γραμμής κώδικα στο αρχείο ['index.md'](https://github.com/midipetit/gr/blob/gh-pages/index.md).
