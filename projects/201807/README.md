@@ -28,7 +28,7 @@
 - [Lego Mindstorms EV3](https://github.com/c18stat/gr/blob/gh-pages/_gallery/11.md)
 
 Αντικατάσταση με την ίδια φωτογραφία με μέγεθος 160*160
-- [Lego Mindstorms EV3](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Lego-mindstorms-ev3.md)
+- [Lego Mindstorms EV3](https://github.com/c18stat/gr/blob/gh-pages/images/Lego%20Mindstorms%20EV3.jpg)
 
 Οι παρακάτω φωτογραφίες έχουν μεσαίο μέγεθος
 - [Computer](https://github.com/c18stat/gr/blob/gh-pages/_gallery/computer.md)
@@ -53,7 +53,7 @@
 
 Αντικαταστάθηκε απο την Atari_400 με μέγεθος 160*160
 
-- [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Atari_400.md)
+- [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/images/Atari-400-Comp_tn2.jpg)
 
 - [Toshiba T1850](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Toshiba%20T1850.md)
 
