@@ -21,11 +21,15 @@
 2. 1. Α*1: Πέντε εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που να επιτρέπουν εμπορική χρήση:
 Έγινε δημιουργία αρχείων _md στο gallery και Upload φωτογραφίες στο φάκελο _images
 ### [Αποθετήριο κώδικα παραδοτέου](https://github.com/c18stat/gr)
+
 Αλλαγή μεγέθους φωτογραφίας Lego Mindstorms EV3
+
 Παλιά φωτογραφία με μεσαίο μέγεθος
 - [Lego Mindstorms EV3](https://github.com/c18stat/gr/blob/gh-pages/_gallery/11.md)
+
 Αντικατάσταση με την ίδια φωτογραφία με μέγεθος 160*160
 - [Lego Mindstorms EV3](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Lego-mindstorms-ev3.md)
+
 Οι παρακάτω φωτογραφίες έχουν μεσαίο μέγεθος
 - [Computer](https://github.com/c18stat/gr/blob/gh-pages/_gallery/computer.md)
 
@@ -40,13 +44,14 @@
 Έγινε δημιουργία αρχείων _md στο gallery και Upload φωτογραφίες στο φάκελο _images
 ### [Αποθετήριο κώδικα παραδοτέου](https://github.com/c18stat/gr)
 
+Οι φωτογραφίες macintosh, toshiba, twitter και sotial media έχουν μεσαίο μέγεθος
 - [Macintosh](https://github.com/c18stat/gr/blob/gh-pages/_gallery/macintosh.md)
 
-Η παρακάτωφΦωτογραφία με μεσαίο μέγεθος
+Η φωτογραφία Atari-400 με μεσαίο μέγεθος
 
 - [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Atari-400.md)
 
-Αντικαταστάθηκε απο την παρακάτω με μέγεθος 160*160
+Αντικαταστάθηκε απο την Atari_400 με μέγεθος 160*160
 
 - [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Atari_400.md)
 
