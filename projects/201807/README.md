@@ -26,7 +26,7 @@
 - [Lego Mindstorms EV3](https://github.com/c18stat/gr/blob/gh-pages/_gallery/11.md)
 Αντικατάσταση με την ίδια φωτογραφία με μέγεθος 160*160
 - [Lego Mindstorms EV3](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Lego-mindstorms-ev3.md)
-
+Οι παρακάτω φωτογραφίες έχουν μεσαίο μέγεθος
 - [Computer](https://github.com/c18stat/gr/blob/gh-pages/_gallery/computer.md)
 
 - [lego wedo2](https://github.com/c18stat/gr/blob/gh-pages/_gallery/2.md)
@@ -37,18 +37,18 @@
 
 ## Παραδοτέο 3
 2. 1. Α*2: Πέντε νέες εικόνες με ελεύθερα πνευματικά δικαιώματα ή που να επιτρέπουν εμπορική χρήση:
-
+Έγινε δημιουργία αρχείων _md στο gallery και Upload φωτογραφίες στο φάκελο _images
 ### [Αποθετήριο κώδικα παραδοτέου](https://github.com/c18stat/gr)
 
-
-Έγινε τροποποίηση του αρχείου twitter στο φακελο _gallery και στο φακελο _image και αντικαταστάθηκε η εικόνα με νέα
-
 - [Macintosh](https://github.com/c18stat/gr/blob/gh-pages/_gallery/macintosh.md)
-
+Η παρακάτωφΦωτογραφία με μεσαίο μέγεθος
 - [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Atari-400.md)
+Αντικαταστάθηκε απο την παρακάτω με μέγεθος 160*160
+- [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Atari_400.md)
 
 - [Toshiba T1850](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Toshiba%20T1850.md)
 
+Έγινε τροποποίηση του αρχείου twitter στο φακελο _gallery και στο φακελο _image και αντικαταστάθηκε η εικόνα με νέα
 - [Twitter](https://github.com/c18stat/gr/blob/gh-pages/_gallery/twitter.md)
 
 - [Social Media](https://github.com/c18stat/gr/blob/gh-pages/_gallery/social%20media.md)
@@ -76,7 +76,7 @@
 
 * Έγινε προσθήκη twitter στο 'index.md' του φακέλου '_includes' 
     
-* Έγιναν δέκα δημοσιεύσεις στον λογαριασμό μου στο twitter απο το mibook
+* Έγιναν δέκα δημοσιεύσεις στον λογαριασμό μου στο twitter με φωτογραφίες απο το [mibook](https://mibook.org/gr/) του κ. Χωριανόπουλου.
 
 [Twitter](https://twitter.com/@meli_avg)
 
