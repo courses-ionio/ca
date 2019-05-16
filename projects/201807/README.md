@@ -19,10 +19,13 @@
 
 ## Παραδοτέο 2 
 2. 1. Α*1: Πέντε εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που να επιτρέπουν εμπορική χρήση:
-
+Έγινε δημιουργία αρχείων _md στο gallery και Upload φωτογραφίες στο φάκελο _images
 ### [Αποθετήριο κώδικα παραδοτέου](https://github.com/c18stat/gr)
-
+Αλλαγή μεγέθους φωτογραφίας Lego Mindstorms EV3
+Παλιά φωτογραφία με μεσαίο μέγεθος
 - [Lego Mindstorms EV3](https://github.com/c18stat/gr/blob/gh-pages/_gallery/11.md)
+Αντικατάσταση με την ίδια φωτογραφία με μέγεθος 160*160
+- [Lego Mindstorms EV3](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Lego-mindstorms-ev3.md)
 
 - [Computer](https://github.com/c18stat/gr/blob/gh-pages/_gallery/computer.md)
 
