@@ -52,6 +52,7 @@
 - ### [**Tweet2**](https://twitter.com/gouxry/status/1129139695642992640)
 - ### [**Tweet3**](https://twitter.com/gouxry/status/1129144227282194434)
 - ### [**Tweet4**](https://twitter.com/gouxry/status/1129146739737415684)
+- ### [**Tweet5**](https://twitter.com/gouxry/status/1129438151947227139)
 
 - ## Στο αποθετήριο [**Repository (gr)**]( https://github.com/c18gour/gr)
 - ### Προσθήκη του λογαριασμού *twitter* στο **_config.yml**
