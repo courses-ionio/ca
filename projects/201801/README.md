@@ -37,4 +37,11 @@
 *  [alan-turing.md](https://github.com/c18papa/gr/blob/gh-pages/_biography/alan-turing.md)
 *  [bio-turing.md](https://github.com/c18papa/gr/blob/gh-pages/_biography/bio-turing.md)
 
+## Παραδοτέα 2ΑΒ
+
+Για την υλοποίηση των συγκεκριμένων παραδοτέων, αρχικά πραγματοποιήθηκε δημιουργία νέου αρχείου `twitter.html` στο φάκελο `_includes` που περιέχει τμήμα κώδικα για την εμφάνιση twitter stream στη σελίδα του βιβλίου και παραμετροποιήθηκε το αρχείο `index.md` ώστε να γίνεται include. Επίσης, έγινε επεξεργασία του αρχείου `_config.yml` και προστέθηκε ο λογαριασμός του twitter.
+
+*  [Αποθετήριο του κώδικα του παραδοτέου](https://github.com/c18papa/gr)
+*  [Η σελίδα του βιβλίου με twitter stream](https://c18papa.github.io/gr/)
+*  [Λογαριασμός Twitter](https://twitter.com/c18papa)
 
