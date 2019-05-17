@@ -46,7 +46,7 @@
 
 ## ΠΑΡΑΔΟΤΕΟ 2 Α,Β
 
-- Δημιουργία λογαριασμού [**TWITTER**](https://twitter.com/gouxry)
+- Δημιουργία λογαριασμού [***TWITTER***](https://twitter.com/gouxry)
 - Ανάρτηση στο **twitter**
 - ### [**Tweet1**](https://twitter.com/gouxry/status/1129137685451423744)
 - ### [**Tweet2**](https://twitter.com/gouxry/status/1129139695642992640)
