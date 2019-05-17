@@ -78,7 +78,7 @@
 - [Linkedin](https://github.com/c18stat/gr/blob/gh-pages/_case-study/Linkedin.md)
 
 ## Παραδοτέο 5
-2. 2. Α Δημοσιευση δέκα αναρτήσεων στο Twitter 
+2. 2. Α + Β Δημοσιευση δέκα αναρτήσεων στο Twitter 
 
 ### [Αποθετήριο κώδικα παραδοτέου](https://github.com/c18stat/gr)
 * Έγινε επεξεργασία του αρχείου '_config.yml' στο οποίο προστέθηκε ο λογαριασμός μου στο twitter.
