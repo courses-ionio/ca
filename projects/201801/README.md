@@ -44,4 +44,6 @@
 *  [Αποθετήριο του κώδικα του παραδοτέου](https://github.com/c18papa/gr)
 *  [Η σελίδα του βιβλίου με twitter stream](https://c18papa.github.io/gr/)
 *  [Λογαριασμός Twitter](https://twitter.com/c18papa)
+*  [Στατιστικά λογαριασμού Twitter (*update 19/5/2019*)](https://github.com/c18papa/blob/blob/master/tweet_activity_metrics_c18papa.csv)
+
 
