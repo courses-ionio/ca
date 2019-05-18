@@ -57,7 +57,7 @@
 - ### [**Tweet7**](https://twitter.com/gouxry/status/1129665367893336064)
 - ### [**Tweet8**](https://twitter.com/gouxry/status/1129674915324551169)
 - ### [**Tweet9**](https://twitter.com/gouxry/status/1129689234804269057)
-- ### [**Tweet10**]()
+- ### [**Tweet10**](https://twitter.com/gouxry/status/1129696546956685312)
 - ### [**Tweet11**](https://twitter.com/gouxry/status/1129687169994559488)
 
 
