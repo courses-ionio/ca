@@ -37,4 +37,12 @@
 *  [alan-turing.md](https://github.com/c18papa/gr/blob/gh-pages/_biography/alan-turing.md)
 *  [bio-turing.md](https://github.com/c18papa/gr/blob/gh-pages/_biography/bio-turing.md)
 
+## Παραδοτέα 2ΑΒ
 
+Για την υλοποίηση των συγκεκριμένων παραδοτέων, αρχικά πραγματοποιήθηκε δημιουργία νέου αρχείου `twitter.html` στο φάκελο `_includes` που περιέχει τμήμα κώδικα για την εμφάνιση twitter stream στη σελίδα του βιβλίου και παραμετροποιήθηκε το αρχείο `index.md` ώστε να γίνεται include. Επιπλέον, προστέθηκε το αρχείο [social-share.html](https://github.com/mmistakes/minimal-mistakes/blob/master/_includes/social-share.html) στο φάκελο `_includes` και έγινε επεξεργασία του αρχείου `_config.yml` όπου προστέθηκε ο λογαριασμός του twitter και η οδηγία `share: true`. Με τον τρόπο αυτό υπάρχει δυνατότητα [sharing σε Twitter, Facebook, LinkedIn](https://raw.githubusercontent.com/c18papa/blob/master/share_buttons.png).
+
+*  [Αποθετήριο του κώδικα του παραδοτέου](https://github.com/c18papa/gr)
+*  [Η σελίδα του βιβλίου με twitter stream](https://c18papa.github.io/gr/)
+*  [Ενδεικτική σελίδα του βιβλίου με social sharing](https://c18papa.github.io/gr/gallery/architecture-model/)
+*  [Λογαριασμός Twitter](https://twitter.com/c18papa)
+*  [Στατιστικά λογαριασμού Twitter (*ενημέρωση 19/5/2019*)](https://github.com/c18papa/blob/blob/master/tweet_activity_metrics_c18papa.csv)
