@@ -42,3 +42,27 @@
 3. Δημιουργία νέου αρχείου **bio-lovelace.md** 
 
 ### [**Σύντομη βιογραφία της Ada Lovelace**](https://github.com/c18gour/gr/blob/gh-pages/_biography/bio-lovelace.md)
+
+
+## ΠΑΡΑΔΟΤΕΟ 2 Α,Β
+
+- ## Δημιουργία λογαριασμού [***TWITTER***](https://twitter.com/gouxry)
+- ## Ανάρτηση στο **twitter**
+- ### [**Tweet1**](https://twitter.com/gouxry/status/1129137685451423744)
+- ### [**Tweet2**](https://twitter.com/gouxry/status/1129139695642992640)
+- ### [**Tweet3**](https://twitter.com/gouxry/status/1129144227282194434)
+- ### [**Tweet4**](https://twitter.com/gouxry/status/1129146739737415684)
+- ### [**Tweet5**](https://twitter.com/gouxry/status/1129438151947227139)
+- ### [**Tweet6**](https://twitter.com/gouxry/status/1129440374697660419)
+- ### [**Tweet7**](https://twitter.com/gouxry/status/1129665367893336064)
+- ### [**Tweet8**](https://twitter.com/gouxry/status/1129674915324551169)
+- ### [**Tweet9**](https://twitter.com/gouxry/status/1129689234804269057)
+- ### [**Tweet10**](https://twitter.com/gouxry/status/1129696546956685312)
+- ### [**Tweet11**](https://twitter.com/gouxry/status/1129687169994559488)
+
+
+- ## Στο αποθετήριο [**Repository (gr)**]( https://github.com/c18gour/gr)
+- ### Προσθήκη του λογαριασμού *twitter* στο **_config.yml**
+- ### Προσθήκη αρχείου *tweet.html* στον φάκελο **_includes**
+- ### Προσθήκη *γραμμής κώδικα* στο **index.md**
+
