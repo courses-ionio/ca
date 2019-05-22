@@ -74,6 +74,6 @@ A. Για την δημοσίευση υλικού από το βιβλίο "Ο 
 
 B. Για το δεύτερο μέρος της εργασίας όπου απαιτούνταν να εμφανίζονταν το timeline του twitter στη σελίδα του ηλεκτρονικού βιβλίου "Ο Προγραμματισμός της Διάδρασης" πραγματοποιήθηκαν τα εξής βήματα:
 
-1. Προσθήκη αρχείου [twittertimeline.html](https://github.com/midipetit/gr/blob/gh-pages/_includes/twittertimeline.html) στον φάκελο ['_includes'](https://github.com/midipetit/gr/tree/gh-pages/_includes).
+1. Προσθήκη αρχείου [twitter.html](https://github.com/midipetit/gr/blob/gh-pages/_includes/twitter.html) στον φάκελο ['_includes'](https://github.com/midipetit/gr/tree/gh-pages/_includes).
 
 2. Προσθήκη μίας γραμμής κώδικα στο αρχείο ['index.md'](https://github.com/midipetit/gr/blob/gh-pages/index.md).
