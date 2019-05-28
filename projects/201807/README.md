@@ -58,9 +58,9 @@
 - [Toshiba T1850](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Toshiba%20T1850.md)
 
 Έγινε τροποποίηση του αρχείου twitter στο φακελο _gallery και στο φακελο _image και αντικαταστάθηκε η εικόνα με νέα
-- [Twitter](https://github.com/c18stat/gr/blob/gh-pages/_gallery/twitter.md)
+- [Twitter](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Twitter.md)
 
-- [Social Media](https://github.com/c18stat/gr/blob/gh-pages/_gallery/social%20media.md)
+- [Social Media](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Social%20Media.md)
 
 ## Παραδοτέο 4
 2. 1. Γ: Μελέτη περίπτωσης Linkedin
