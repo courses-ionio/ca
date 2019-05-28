@@ -49,7 +49,7 @@
 
 Η φωτογραφία Atari-400 με μεσαίο μέγεθος
 
-- [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Atari-400.md)
+- [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/_gallery/atari%20400.md)
 
 Αντικαταστάθηκε απο την Atari_400 με μέγεθος 160*160
 
