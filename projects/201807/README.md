@@ -69,7 +69,7 @@
 
 ### [Αποθετήριο κώδικα παραδοτέου](https://github.com/c18stat/gr)
 
-Αρχείο cs_Linkedin.md στο φάκελο '_case-study'
+Αρχείο cs_Linkedin.md στο φάκελο '_includes'
 
 - [Linkedin](https://github.com/c18stat/gr/blob/gh-pages/_includes/cs-Linkedin.md)
 
