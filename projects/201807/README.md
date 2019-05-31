@@ -55,7 +55,7 @@
 
 - [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/images/Atari-400-Comp_tn2.jpg)
 
-- [Toshiba T1850](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Toshiba T1850.md)
+- [Toshiba T1850](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Toshiba%20T1850.md)
 
 Έγινε τροποποίηση του αρχείου twitter στο φακελο _gallery και στο φακελο _image και αντικαταστάθηκε η εικόνα με νέα
 - [Twitter](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Twitter.md)
