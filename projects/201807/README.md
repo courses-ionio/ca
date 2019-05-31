@@ -49,18 +49,18 @@
 
 Η φωτογραφία Atari-400 με μεσαίο μέγεθος
 
-- [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/_gallery/atari%20400.md)
+- [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/_gallery/atari-400.md)
 
 Αντικαταστάθηκε απο την Atari_400 με μέγεθος 160*160
 
 - [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/images/Atari-400-Comp_tn2.jpg)
 
-- [Toshiba T1850](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Toshiba%20T1850.md)
+- [Toshiba T1850](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Toshiba-T1850.md)
 
 Έγινε τροποποίηση του αρχείου twitter στο φακελο _gallery και στο φακελο _image και αντικαταστάθηκε η εικόνα με νέα
 - [Twitter](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Twitter.md)
 
-- [Social Media](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Social%20Media.md)
+- [Social Media](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Social-Media.md)
 
 ## Παραδοτέο 4
 2. 1. Γ: Μελέτη περίπτωσης Linkedin
