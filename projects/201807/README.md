@@ -71,7 +71,7 @@
 
 Αρχείο cs_Linkedin.md στο φάκελο '_case-study'
 
-- [Linkedin](https://github.com/c18stat/gr/blob/gh-pages/_case-study/cs-Linkedin.md)
+- [Linkedin](https://github.com/c18stat/gr/blob/gh-pages/_includes/cs-Linkedin.md)
 
 Αρχείο Linkedin.md στον φάκελο '_case-stady'
 
