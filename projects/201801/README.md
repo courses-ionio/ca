@@ -52,3 +52,9 @@ _Σχετικά με τα παραδοτέα 1Α, 1Γ, 2ΑΒ_:
 *  [Ενδεικτική σελίδα του βιβλίου με social sharing](https://c18papa.github.io/gr/gallery/architecture-model/)
 *  [Λογαριασμός Twitter](https://twitter.com/c18papa)
 *  [Στατιστικά λογαριασμού Twitter (*ενημέρωση 19/5/2019*)](https://github.com/c18papa/blob/blob/master/tweet_activity_metrics_c18papa.csv)
+
+## Οδηγός σπουδών τμήματος
+
+Για την υλοποίηση του συγκεκριμένου παραδοτέου, πραγματοποιήθηκε fork του αποθετηρίου `ioniodi/study-guide` και στη συνέχεια δημιουργία του branch `201801-develop`. Δημιουργήθηκαν και επιλύθηκαν τα ακόλουθα Issues μέσω αιτημάτων ενσωμάτωσης:
+
+* https://github.com/ioniodi/study-guide/issues/14
