@@ -51,7 +51,7 @@ _Σχετικά με τα παραδοτέα 1Α, 1Γ, 2ΑΒ_:
 *  [Η σελίδα του βιβλίου με twitter stream](https://c18papa.github.io/gr/)
 *  [Ενδεικτική σελίδα του βιβλίου με social sharing](https://c18papa.github.io/gr/gallery/architecture-model/)
 *  [Λογαριασμός Twitter](https://twitter.com/c18papa)
-*  [Στατιστικά λογαριασμού Twitter (*ενημέρωση 19/5/2019*)](https://github.com/c18papa/blob/blob/master/tweet_activity_metrics_c18papa.csv)
+*  [Στατιστικά λογαριασμού Twitter (*ενημέρωση 5/6/2019*)](https://github.com/c18papa/blob/blob/master/tweet_activity_metrics_c18papa.csv)
 
 ## Οδηγός σπουδών τμήματος
 
@@ -90,4 +90,5 @@ Push του branch master στο github repo:
 ```
 git push origin master
 ```
-
+*  [Η σελίδα του βιογραφικού](https://c18papa.github.io/simple-cv-c18papa/)
+*  [Αποθετήριο του κώδικα του βιογραφικού](https://github.com/c18papa/simple-cv-c18papa)
