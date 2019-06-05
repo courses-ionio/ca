@@ -63,3 +63,26 @@ _Σχετικά με τα παραδοτέα 1Α, 1Γ, 2ΑΒ_:
 * [Issue #42](https://github.com/ioniodi/study-guide/issues/42)
 * [Issue #43](https://github.com/ioniodi/study-guide/issues/43)
 
+## Παραδοτέο Συπλήρωση Βιογραφικού B
+Αρχικά πραγματοποιήθηκε εγκατάσταση των εργαλείων Git, Pandoc, MiKTeX και Atom. Στη συνέχεια πραγματοποιήθηκε fork του αποθετηρίου https://github.com/plain-plain-text/simple-cv. Κατόπιν με την ακόλουθη εντολή έγινε clone του αποθετηρίου τοπικά:
+
+```
+git clone https://github.com/c18papa/simple-cv-c18papa.git
+```
+Στη συνέχεια έγιναν οι απαραίτητες αλλαγές στα αρχεία των φακέλων metadata, sections, sections.txt.
+Με την εκτέλεση της εντολής `sh process.sh` γίνεται η δημιουργία των αρχέιων .pdf, .html, .tex
+
+Ο συγχρονισμός με το αποθετήριο στο github πραγματοποιήθηκε με τις ακόλουθες εντολές:
+```
+git pull origin master
+```
+```
+git add -A
+```
+```
+git commit -m "commit message"
+```
+```
+git push origin master
+```
+
