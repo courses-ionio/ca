@@ -57,4 +57,9 @@ _Σχετικά με τα παραδοτέα 1Α, 1Γ, 2ΑΒ_:
 
 Για την υλοποίηση του συγκεκριμένου παραδοτέου, πραγματοποιήθηκε fork του αποθετηρίου `ioniodi/study-guide` και στη συνέχεια δημιουργία του branch `201801-develop`. Δημιουργήθηκαν και επιλύθηκαν τα ακόλουθα Issues μέσω αιτημάτων ενσωμάτωσης:
 
-* https://github.com/ioniodi/study-guide/issues/14
+* [Issue #14](https://github.com/ioniodi/study-guide/issues/14)
+* [Issue #22](https://github.com/ioniodi/study-guide/issues/22)
+* [Issue #23](https://github.com/ioniodi/study-guide/issues/23)
+* [Issue #42](https://github.com/ioniodi/study-guide/issues/42)
+* [Issue #43](https://github.com/ioniodi/study-guide/issues/43)
+
