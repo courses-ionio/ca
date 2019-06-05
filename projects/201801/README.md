@@ -73,15 +73,20 @@ git clone https://github.com/c18papa/simple-cv-c18papa.git
 Με την εκτέλεση της εντολής `sh process.sh` γίνεται η δημιουργία των αρχέιων .pdf, .html, .tex
 
 Ο συγχρονισμός με το αποθετήριο στο github πραγματοποιήθηκε με τις ακόλουθες εντολές:
+
+Update local repository από το github repo:
 ```
 git pull origin master
 ```
+Προσθήκη των νέων και τροποποιημένων αρχείων σε staging:
 ```
 git add -A
 ```
+Commit αλλαγών:
 ```
 git commit -m "commit message"
 ```
+Push του branch master στο github repo:
 ```
 git push origin master
 ```
