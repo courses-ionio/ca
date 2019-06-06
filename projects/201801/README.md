@@ -60,8 +60,8 @@ _Σχετικά με τα παραδοτέα 1Α, 1Γ, 2ΑΒ_:
 * [Issue #14](https://github.com/ioniodi/study-guide/issues/14), [σχετικό αρχείο](https://github.com/ioniodi/study-guide/blob/master/_msc/mob-computing-and-apps.md)
 * [Issue #22](https://github.com/ioniodi/study-guide/issues/22), [σχετικό αρχείο](https://github.com/ioniodi/study-guide/blob/master/_msc/security-and-privacy-policies.md)
 * [Issue #23](https://github.com/ioniodi/study-guide/issues/23), [σχετικό αρχείο](https://github.com/ioniodi/study-guide/blob/master/_msc/bioinformatics.md)
-* [Issue #42](https://github.com/ioniodi/study-guide/issues/42)
-* [Issue #43](https://github.com/ioniodi/study-guide/issues/43)
+* [Issue #42](https://github.com/ioniodi/study-guide/issues/42), [σχετικό αρχείο](https://github.com/c18papa/study-guide/blob/201801-develop/_intro/corfu-and-the-ionian-university.md)
+* [Issue #43](https://github.com/ioniodi/study-guide/issues/43), [σχετικό αρχείο](https://github.com/c18papa/study-guide/blob/201801-develop/_intro/faculties-and-departments.md)
 
 ## Παραδοτέο Συπλήρωση Βιογραφικού B
 Αρχικά πραγματοποιήθηκε εγκατάσταση των εργαλείων Git, Pandoc, MiKTeX και Atom. Στη συνέχεια πραγματοποιήθηκε fork του αποθετηρίου https://github.com/plain-plain-text/simple-cv. Κατόπιν με την ακόλουθη εντολή έγινε clone του αποθετηρίου τοπικά:
