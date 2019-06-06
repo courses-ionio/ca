@@ -92,3 +92,5 @@ git push origin master
 ```
 *  [Η σελίδα του βιογραφικού](https://c18papa.github.io/simple-cv-c18papa/)
 *  [Αποθετήριο του κώδικα του βιογραφικού](https://github.com/c18papa/simple-cv-c18papa)
+
+![toolslocal](toolslocal.gif)
