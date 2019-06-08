@@ -88,7 +88,7 @@
 - ### Download στο PC τα εργαλεία **Pandoc**, **LateX**, **Git Bash** & **Atom**
 - ### Ανοίγοντας με το **Atom** το **simple-cv** δημιουργήθηκαν οι κατάλληλες αλλαγές στο ΒΙΟΓΡΑΦΙΚΟ, έγινε **save** των αλλαγών, **Stage All**, **Commit to master** & τέλος **Pull**
 - ### Χρησιμοποιώντας το **Git Bash** και πληκτρολογώντας την εντολή **sh process.sh** (αφού πρώτα έχω μπει στο master με τις εντολές cd, cd simple-cv) εμφανίζεται, στον φάκελο docs του PC, το ΒΙΟΓΡΑΦΙΚΟ σε μορφή pdf, με τις αλλαγές που έχουμε κάνει από το Atom. 
-- ### Οι αλλαγές έχον γίνει, φυσικά, και στο [**Repository (simple-cv)**](https://github.com/c18gour/simple-cv)
+- ### Οι αλλαγές έχουν γίνει, φυσικά, και στο [**Repository (simple-cv)**](https://github.com/c18gour/simple-cv)
 
 
 
