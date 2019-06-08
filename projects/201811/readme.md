@@ -67,10 +67,29 @@
 - ### Προσθήκη *γραμμής κώδικα* στο **index.md**
 
 
+
+
 ## ΠΑΡΑΔΟΤΕΟ **"ΔΗΜΙΟΥΡΓΙΑ ΟΔΗΓΟΥ ΣΠΟΥΔΩΝ"**
 
-- Fork του αποθετηρίου (**Repository**) https://github.com/ioniodi/study-guide στο **c18gour** και δημιουργία δικού μου Repository **study-guide**
-- Δημιουργία **Issues** https://github.com/ioniodi/study-guide/issues για την ενημέρωση των συνεργατών μου για τα θέματα τα οποία πρόκειται να συνεισφέρω. 
-- Δημιουργία κλαδιών (**branches**) για το κάθε θέμα το οποίο θα προστεθεί.
-- Εισαγωγή τριών -3- μαθημάτων στον φάκελο **_msc** και επτά -7- άλλων θεμάτων στον φάκελο **_msc-intro**
-- [**Repository (study-guide)**](https://github.com/c18gour/study-guide)
+- ### Fork του αποθετηρίου (**Repository**) https://github.com/ioniodi/study-guide στο **c18gour** και δημιουργία δικού μου Repository **study-guide**
+- ### Δημιουργία **Issues** https://github.com/ioniodi/study-guide/issues για την ενημέρωση των συνεργατών μου για τα θέματα τα οποία πρόκειται να συνεισφέρω. 
+- ### Δημιουργία κλαδιών (**branches**) για το κάθε θέμα το οποίο θα προστεθεί.
+- ### Εισαγωγή τριών -3- μαθημάτων στον φάκελο **_msc** και επτά -7- άλλων θεμάτων στον φάκελο **_msc-intro**
+- ### [**Repository (study-guide)**](https://github.com/c18gour/study-guide)
+
+
+
+## ΠΑΡΑΔΟΤΕΟ **"ΒΙΟΓΡΑΦΙΚΟ"**
+
+
+- ### Fork του αποθετηρίου (**Repository**) https://github.com/plain-plain-text/simple-cv στο **c18gour** και δημιουργία δικού μου Repository **simple-cv**
+- ### Download στο PC το **simple-cv**
+- ### Download στο PC τα εργαλεία **Pandoc**, **LateX**, **Git Bash** & **Atom**
+- ### Ανοίγοντας με το **Atom** το **simple-cv** δημιουργήθηκαν οι κατάλληλες αλλαγές στο ΒΙΟΓΡΑΦΙΚΟ, έγινε **save** των αλλαγών, 
+
+
+
+
+
+
+
