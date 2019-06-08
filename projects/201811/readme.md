@@ -61,10 +61,11 @@
 - ### [**Tweet11**](https://twitter.com/gouxry/status/1129687169994559488)
 
 
-- ## Στο αποθετήριο [**Repository (gr)**]( https://github.com/c18gour/gr)
+- ### Στο ήδη υπάρχων αποθετήριο [**Repository (gr)**]( https://github.com/c18gour/gr)
 - ### Προσθήκη του λογαριασμού *twitter* στο **_config.yml**
 - ### Προσθήκη αρχείου *tweet.html* στον φάκελο **_includes**
 - ### Προσθήκη *γραμμής κώδικα* στο **index.md**
+- ### [**Repository (gr)-με προσθήκη tweets**](https://github.com/c18gour/gr)
 
 
 
