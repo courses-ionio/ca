@@ -66,3 +66,11 @@
 - ### Προσθήκη αρχείου *tweet.html* στον φάκελο **_includes**
 - ### Προσθήκη *γραμμής κώδικα* στο **index.md**
 
+
+## ΠΑΡΑΔΟΤΕΟ **"ΔΗΜΙΟΥΡΓΙΑ ΟΔΗΓΟΥ ΣΠΟΥΔΩΝ"**
+
+- Fork του αποθετηρίου (**Repository**) https://github.com/ioniodi/study-guide στο **c18gour** και δημιουργία δικού μου Repository **study-guide**
+- Δημιουργία **Issues** https://github.com/ioniodi/study-guide/issues για την ενημέρωση των συνεργατών μου για τα θέματα τα οποία πρόκειται να συνεισφέρω. 
+- Δημιουργία κλαδιών (**branches**) για το κάθε θέμα το οποίο θα προστεθεί.
+- Εισαγωγή τριών -3- μαθημάτων στον φάκελο **_msc** και επτά -7- άλλων θεμάτων στον φάκελο **_msc-intro**
+- [**Repository (study-guide)**](https://github.com/c18gour/study-guide)
