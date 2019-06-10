@@ -47,13 +47,9 @@
 Οι φωτογραφίες macintosh, toshiba, twitter και sotial media έχουν μεσαίο μέγεθος
 - [Macintosh](https://github.com/c18stat/gr/blob/gh-pages/_gallery/macintosh.md)
 
-Η φωτογραφία Atari-400 με μεσαίο μέγεθος
+Atari_400 με μέγεθος 160*160
 
-- [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/_gallery/atari-400.md)
-
-Αντικαταστάθηκε απο την Atari_400 με μέγεθος 160*160
-
-- [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/images/Atari-400-Comp_tn2.jpg)
+- [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/images/atari-400.md)
 
 - [Toshiba T1850](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Toshiba%20T1850.md)
 
