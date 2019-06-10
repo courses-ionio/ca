@@ -23,7 +23,7 @@
 ### [Αποθετήριο κώδικα παραδοτέου](https://github.com/c18stat/gr)
 
 Φωτογραφία με με μέγεθος 160*160
-- [Lego Mindstorms EV3](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Lego mindstorms ev3.md)
+- [Lego Mindstorms EV3](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Lego-mindstorms-ev3.md)
 
 Οι παρακάτω φωτογραφίες έχουν μεσαίο μέγεθος
 - [Computer](https://github.com/c18stat/gr/blob/gh-pages/_gallery/computer.md)
