@@ -88,11 +88,12 @@ Atari_400 με μέγεθος 160*160
 
 ## Οδηγος σπουδων τμήματος
 Για την υλοποίηση του οδηγού σπουδών πραγματοποιήθηκε fork στο αποθετήριο ioniodi/study-guide. Στη συνέχεια δημιουργήθηκαν και επιλύθηκαν τα παρακάτω issues μέσα απο αιτήματα ενσωπάτωσης.
-[issues #30](https://github.com/ioniodi/study-guide/issues/30), [Αρχείο](https://github.com/ioniodi/study-guide/blob/master/_msc/collaborative-applications.md)
-[issues #31](https://github.com/ioniodi/study-guide/issues/31), [Αρχείο](
-[issues #60](https://github.com/ioniodi/study-guide/issues/60), [Αρχείο]
-[issues #59](https://github.com/ioniodi/study-guide/issues/59), [Αρχείο]
-[issues #17](https://github.com/ioniodi/study-guide/issues/17), [Αρχείο]
+
+* [issues #30](https://github.com/ioniodi/study-guide/issues/30), [Αρχείο](https://github.com/ioniodi/study-guide/blob/master/_msc/collaborative-applications.md)
+* [issues #31](https://github.com/ioniodi/study-guide/issues/31), [Αρχείο]
+* [issues #60](https://github.com/ioniodi/study-guide/issues/60), [Αρχείο]
+* [issues #59](https://github.com/ioniodi/study-guide/issues/59), [Αρχείο]
+* [issues #17](https://github.com/ioniodi/study-guide/issues/17), [Αρχείο]
 
 ### Παραδοτέο Βιογραφικού
 Β: Βιογραφικό σημείωμα
