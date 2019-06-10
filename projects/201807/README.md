@@ -39,7 +39,7 @@
 Έγινε δημιουργία αρχείων _md στο gallery και Upload φωτογραφίες στο φάκελο _images
 ### [Αποθετήριο κώδικα παραδοτέου](https://github.com/c18stat/gr)
 
-Οι φωτογραφίες macintosh, toshiba, twitter και sotial media έχουν μεσαίο μέγεθος
+Οι φωτογραφίες macintosh, toshiba, twitter και social media έχουν μεσαίο μέγεθος
 - [Macintosh](https://github.com/c18stat/gr/blob/gh-pages/_gallery/macintosh.md)
 
 Atari_400 με μέγεθος 160*160
