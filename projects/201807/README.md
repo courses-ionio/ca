@@ -49,7 +49,7 @@
 
 Atari_400 με μέγεθος 160*160
 
-- [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/images/atari-400.md)
+- [Atari 400](https://github.com/c18stat/gr/blob/gh-pages/_gallery/atari-400.md)
 
 - [Toshiba T1850](https://github.com/c18stat/gr/blob/gh-pages/_gallery/Toshiba%20T1850.md)
 
