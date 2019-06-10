@@ -93,7 +93,7 @@ Atari_400 με μέγεθος 160*160
 * [issues #31](https://github.com/ioniodi/study-guide/issues/31), [Αρχείο]
 * [issues #60](https://github.com/ioniodi/study-guide/issues/60), [Αρχείο]
 * [issues #59](https://github.com/ioniodi/study-guide/issues/59), [Αρχείο]
-* [issues #17](https://github.com/ioniodi/study-guide/issues/17), [Αρχείο]
+* [issues #17](https://github.com/ioniodi/study-guide/issues/17), [Αρχείο](https://github.com/ioniodi/study-guide/blob/master/_msc/technologies-for-smart-management-of-humanistic-data.md)
 
 ### Παραδοτέο Βιογραφικού
 Β: Βιογραφικό σημείωμα
