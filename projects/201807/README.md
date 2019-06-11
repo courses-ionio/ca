@@ -95,12 +95,12 @@ Atari_400 με μέγεθος 160*160
 * [issues #59](https://github.com/ioniodi/study-guide/issues/59), [Αρχείο]
 * [issues #17](https://github.com/ioniodi/study-guide/issues/17), [Αρχείο](https://github.com/ioniodi/study-guide/blob/master/_msc/technologies-for-smart-management-of-humanistic-data.md)
 
-### Παραδοτέο Βιογραφικού
+## Παραδοτέο Βιογραφικού
 Β: Βιογραφικό σημείωμα
 Αρχικά εγκαταστάθηκαν τα εργαλεία Git, Pandoc, MiKTeX και Atom τοπικά. Στη συνέχεια έγινε Fork το βιογραφικό απο https://github.com/plain-plain-text/simple-cv και clone το βιογραφικό στον υπολογιστή μου μέ το Git bash, πληκτρολογώντας git clone https://github.com/c18stat/simple-cv.git. Το επεξεργάστηκα τοπικά με το Atom και το έκανα push μεσω του atom στην online σελίδα μου.
 Επεξεργάστηκαn τα αρχεία των φακέλων metadata, sections, sections.txt. Με την εκτέλεση της εντολής sh process.sh γίνεται η δημιουργία των αρχέιων .pdf, .html, .tex
 
-## [Αποθετήριο κώδικα παραδοτέου](https://github.com/c18stat/simple-cv)
-## [Βιογραφικό σημείωμα](https://c18stat.github.io/simple-cv/)
-## [Βιογραφικό σημείωμα pdf](https://c18stat.github.io/simple-cv/H-W-Jones.pdf)
+### [Αποθετήριο κώδικα παραδοτέου](https://github.com/c18stat/simple-cv)
+### [Βιογραφικό σημείωμα](https://c18stat.github.io/simple-cv/)
+### [Βιογραφικό σημείωμα pdf](https://c18stat.github.io/simple-cv/H-W-Jones.pdf)
 
