@@ -16,7 +16,7 @@
 *2*. Επεξεργασία '_config.yml','education.yml','experience.yml' και 'projects.yml' ως Master branch.
 
 *3*. Δημιουργία gh page όπου εμφανίζεται το βιογραφικό.
-# [Βιογραφικό Σημείωμα](https://midipetit.github.io/cv/)
+# [Βιογραφικό Σημείωμα](https://midipetit.github.io/cv-anna-mesimeri/)
 
 *4*. Έγιναν μετατροπές στο αρχείο '_config.yml' και στον html κώδικα (προσθήκη επιπλέον αρχείου html),  ώστε οι αλλαγές να γίνονται αποκλειστικά από αυτό το αρχείο.
 
