@@ -106,3 +106,41 @@ B. Για το δεύτερο μέρος της εργασίας όπου απα
 3. Προσθήκη Follow Button.
 
 [Twitter Embed στην ιστοσελίδα του βιβλίου](https://midipetit.github.io/gr/)
+
+### Παραδοτέο για τον οδηγό σπουδό του τμήματος.
+
+Δήλωση θεμάτων για ανάπτυξη στον οδηγό σπουδών και τα αντίστοιχα θέματα που ενσωματώθηκαν στο αποθετήριο _msc του οδηγού σπουδών.
+
+#### Issues:
+
+[Πληροφοριακά Συστήματα και Διαχείριση Επιχειρησιακών Διεργασιών](https://github.com/ioniodi/study-guide/issues/24)
+
+[Καινοτομία και επιχειρηματικότητα στην ψηφιακή οικονομία](https://github.com/ioniodi/study-guide/issues/25)
+
+[Ψηφιακές Εφαρμογές για την Αγροτική Παραγωγή και το Περιβάλλον](https://github.com/ioniodi/study-guide/issues/15)
+
+[Courses Template](https://github.com/ioniodi/study-guide/issues/29)
+
+#### Αποθετήτηριο Κώδικα:
+
+[Πληροφοριακά Συστήματα και Διαχείριση Επιχειρησιακών Διεργασιών](https://github.com/ioniodi/study-guide/blob/master/_msc/info-systems-and-business-process-management.md)
+
+[Καινοτομία και επιχειρηματικότητα στην ψηφιακή οικονομία](https://github.com/ioniodi/study-guide/blob/master/_msc/inn-and-entepr-in-the-dig-economy.md)
+
+[Ψηφιακές Εφαρμογές για την Αγροτική Παραγωγή και το Περιβάλλον](https://github.com/ioniodi/study-guide/blob/master/_msc/digital-apps-in-agriculture-and-environment.md)
+
+## Extra
+
+# [Bιογραφικό χωρίς Jekyll](https://midipetit.github.io/simple-cv/)
+
+Για το συγκεκριμένο βιογραφικό χρησιμοποιήθηκαν τα εργαλεία που εγκαταστήσαμε τοπικά στον υπολογιστή
+
+- Pandoc
+- Latex
+- Atom
+- Git Bash
+
+Μέσω του Atom πραγματοποιούνταν οι αλλαγές στο βιογραφικό και με την βοήθεια του Pandoc και του Latex για τις αλλαγες στο .pdf αρχειό. Στη συνέχεια μέσω ενός αρχείου shell και με τη βοήθεια του Git Bash το αρχείο pdf πραγματοποιούσε τις αλλαγές και με push στέλνονταν στο αποθετήριο του GitHub.
+
+
+[Aποθετήριο Κώδικα Βιογραφικού](https://github.com/midipetit/simple-cv)
