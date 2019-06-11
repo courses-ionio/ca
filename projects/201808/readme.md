@@ -18,11 +18,23 @@
 *3*. Δημιουργία gh page όπου εμφανίζεται το βιογραφικό.
 # [Βιογραφικό Σημείωμα](https://midipetit.github.io/cv/)
 
-Travis build
+*4*. Έγιναν μετατροπές στο αρχείο '_config.yml' και στον html κώδικα (προσθήκη επιπλέον αρχείου html),  ώστε οι αλλαγές να γίνονται αποκλειστικά από αυτό το αρχείο.
 
-https://github.com/midipetit/msc/blob/201808/projects/201808/BUILD.png
+*5*. Πραγματοποιήθηκαν αλλαγές στη CSS και στα αρχεία html με σκοπό την προσθήκη navigation bar.
 
-https://github.com/midipetit/msc/blob/201808/projects/201808/BUILD2.png
+Για την πραγματοποίηση του 9ου παραδοτέου έγιναν οι εξής επεξεργασίες στο βιογραφικό :
+
+*6*. Χρησιμοποιήθηκαν τα εργαλεία Pandoc και Latex τοπικά στον υπολογιστή μέσω του command line με σκοπό την δημιουργία αρχείου [template.tex](https://github.com/midipetit/cv-anna-mesimeri/blob/master/template.tex) όπου θα λαμβάνει τις αλλαγές από το αρχείο [_config.yml](https://github.com/midipetit/cv-anna-mesimeri/blob/master/_config.yml) και θα ενημερώνει το αρχείο .pdf που θα μπορεί κάποιος να το κατεβάζει από τη σελίδα του βιογραφικού. Επίσης πραγματοποιήθηκαν αλλαγές στο αρχείο [.travis.yml](https://github.com/midipetit/cv-anna-mesimeri/blob/master/.travis.yml).
+
+*7*. Με τη χρήση του [Travis CI](https://travis-ci.org/midipetit/cv-anna-mesimeri) έγινε build η σελίδα και δημιουργήθηκε το αρχείο [resume.pdf](https://github.com/midipetit/cv-anna-mesimeri/blob/master/resume.pdf). 
+
+
+### Travis build
+
+![Travis Build](https://github.com/midipetit/msc/blob/201808/projects/201808/BUILD2.png)
+![Travis Build](https://github.com/midipetit/msc/blob/201808/projects/201808/BUILD.png)
+
+
 
 
 ### 2ο Παραδοτέο
@@ -60,6 +72,12 @@ https://github.com/midipetit/msc/blob/201808/projects/201808/BUILD2.png
 #### [Keyboard](https://github.com/midipetit/gr/blob/gh-pages/_gallery/keyboard.md)
 #### [Kickstarter](https://github.com/midipetit/gr/blob/gh-pages/_gallery/kickstarter.md)
 
+### Νέες φωτογραφίες στο online book
+#### [G Suite](https://midipetit.github.io/gr/gallery/gsuite/)
+#### [Instagramstories](https://midipetit.github.io/gr/gallery/instagramstories/)
+#### [iPhone X](https://midipetit.github.io/gr/gallery/iphoneX/)
+#### [Keyboard](https://midipetit.github.io/gr/gallery/keyboard/)
+#### [Kickstarter](https://midipetit.github.io/gr/gallery/kickstarter/)
 
 ### 4ο Παραδοτέο
 
@@ -69,6 +87,7 @@ https://github.com/midipetit/msc/blob/201808/projects/201808/BUILD2.png
 Στη συνέχεια δημιουργήθηκε ακόμα ένα αρχείο .md στον φάκελο gr/_case-study.
 #### [Instagram](https://github.com/midipetit/gr/blob/gh-pages/_case-study/instagram.md)
 
+### [Instagram Case Study](https://midipetit.github.io/gr/case-study/instagram/)
 
 ### 5ο Παραδοτέο
 
@@ -83,3 +102,7 @@ B. Για το δεύτερο μέρος της εργασίας όπου απα
 1. Προσθήκη αρχείου [twitter.html](https://github.com/midipetit/gr/blob/gh-pages/_includes/twitter.html) στον φάκελο ['_includes'](https://github.com/midipetit/gr/tree/gh-pages/_includes).
 
 2. Προσθήκη μίας γραμμής κώδικα στο αρχείο ['index.md'](https://github.com/midipetit/gr/blob/gh-pages/index.md).
+
+3. Προσθήκη Follow Button.
+
+[Twitter Embed στην ιστοσελίδα του βιβλίου](https://midipetit.github.io/gr/)
