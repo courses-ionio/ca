@@ -87,7 +87,7 @@ Atari_400 με μέγεθος 160*160
 [Η σελίδα του βιβλίου](https://c18stat.github.io/gr/)
 
 ## Οδηγος σπουδων τμήματος
-Για την υλοποίηση του οδηγού σπουδών πραγματοποιήθηκε fork στο αποθετήριο ioniodi/study-guide. Στη συνέχεια δημιουργήθηκαν και επιλύθηκαν τα παρακάτω issues μέσα απο αιτήματα ενσωπάτωσης.
+Για την υλοποίηση του οδηγού σπουδών Πραγματοποιήθηκε fork στο αποθετήριο ioniodi/study-guide. Στη συνέχεια δημιουργήθηκαν και επιλύθηκαν τα παρακάτω issues μέσα απο αιτήματα ενσωπάτωσης.
 
 * [issues #30](https://github.com/ioniodi/study-guide/issues/30), [Αρχείο](https://github.com/ioniodi/study-guide/blob/master/_msc/collaborative-applications.md)
 * [issues #31](https://github.com/ioniodi/study-guide/issues/31), [Αρχείο]
@@ -97,10 +97,10 @@ Atari_400 με μέγεθος 160*160
 
 ### Παραδοτέο Βιογραφικού
 Β: Βιογραφικό σημείωμα
-έγινε clone το βιογραφικό στον υπολογιστή μου μέ το Git bash. Το επεξεργάστηκα τοπικά με το Atom και το έκανα push στην online σελίδα μου.
-Επεξεργάστηκα το αρχείο personal.ym του φακέλου _metadata, το index.html του _docs
+Αρχικά εγκαταστάθηκαν τα εργαλεία Git, Pandoc, MiKTeX και Atom τοπικά. Στη συνέχεια έγινε Fork το βιογραφικό απο https://github.com/plain-plain-text/simple-cv και clone το βιογραφικό στον υπολογιστή μου μέ το Git bash, πληκτρολογώντας git clone https://github.com/c18stat/simple-cv.git. Το επεξεργάστηκα τοπικά με το Atom και το έκανα push μεσω του atom στην online σελίδα μου.
+Επεξεργάστηκαn τα αρχεία των φακέλων metadata, sections, sections.txt. Με την εκτέλεση της εντολής sh process.sh γίνεται η δημιουργία των αρχέιων .pdf, .html, .tex
 
 ## [Αποθετήριο κώδικα παραδοτέου](https://github.com/c18stat/simple-cv)
 ## [Βιογραφικό σημείωμα](https://c18stat.github.io/simple-cv/)
-## [Βιογραφικό σημείωμα pdf]
+## [Βιογραφικό σημείωμα pdf](https://c18stat.github.io/simple-cv/H-W-Jones.pdf)
 
