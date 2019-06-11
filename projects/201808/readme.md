@@ -6,7 +6,7 @@
 *  *Επίθετο:* **Μεσημέρη**
 *  *Αριθμός Μητρώου:* **ΠΚΜ201808**
 
-### 1ο Παραδοτέο 
+### 1ο και 9ο Παραδοτέο 
 
 *Βήματα για την υλοποίηση του Project:*
 
@@ -17,6 +17,12 @@
 
 *3*. Δημιουργία gh page όπου εμφανίζεται το βιογραφικό.
 # [Βιογραφικό Σημείωμα](https://midipetit.github.io/cv/)
+
+Travis build
+
+https://github.com/midipetit/msc/blob/201808/projects/201808/BUILD.png
+
+https://github.com/midipetit/msc/blob/201808/projects/201808/BUILD2.png
 
 
 ### 2ο Παραδοτέο
