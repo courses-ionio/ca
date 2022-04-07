@@ -24,7 +24,7 @@
 | --- | --- |
 | [Βιογραφικό A+B](https://courses-ionio.github.io/help/cv/) | 10% |
 | [Γραμμή εντολών: arch linux σε VM + warm up](https://courses-ionio.github.io/help/cli/) | 10% |
-| [7 Βίντεο κουίζ](https://courses-ionio.github.io/help/quiz/) | 10% |
+| [8 Βίντεο κουίζ](https://courses-ionio.github.io/help/quiz/) | 10% |
 | [Συμμετοχικό περιεχόμενο A+B](https://courses-ionio.github.io/help/social/) | 20% |
 | [ομαδικότητα και συνεργασία](https://courses-ionio.github.io/help/teamwork/) | 20% |
 | Αίτημα ενσωμάτωσης στην [Ιστοσελίδα](https://github.com/ioniodi/sitegr) ή/και [οδηγός σπουδών τμήματος](https://github.com/ioniodi/guide) | 30% |
